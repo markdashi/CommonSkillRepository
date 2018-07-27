@@ -1,6 +1,6 @@
 # TTTAttributedLabel
 
-* [源文件链接](./TTTAttributedLabel/TTTAttributedLabel.h)
+* [源文件链接](./TTTAttributedLabel.h)
 
 ## 使用
 
