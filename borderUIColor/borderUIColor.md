@@ -8,11 +8,11 @@
  
 ## 2.设置属性
 
-`layer.cornerRadius`
+- [x] layer.cornerRadius
 
-`layer.masksToBounds`
+- [x] layer.masksToBounds
 
-`layer.borderUIColor`
+- [x] layer.borderUIColor
 
-`layer.borderWidth`
+- [x] layer.borderWidth
 
