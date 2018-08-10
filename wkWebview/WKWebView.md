@@ -6,9 +6,9 @@
 - [x] WKUIDelegate
 
 
- [WKNavigationDelegate](#1-WKNavigationDelegate)
+ [WKNavigationDelegate](#1-wknavigationdelegate)
 
- [WKUIDelegate](#WKUIDelegate)
+ [WKUIDelegate](#2-wkuidelegate)
 
  ### 1 WKNavigationDelegate
 
@@ -104,7 +104,7 @@ completionHandler(NSURLSessionAuthChallengePerformDefaultHandling, nil);
 }
 ```
 
-# WKUIDelegate
+# 2 WKUIDelegate
 
 WKUIDelegate 协议包含一些函数用来监听 web JS 想要显示 alert 或 confirm 时触发。我们如果在 WKWebView 中加载一个 web 并且想要 web JS 的 alert 或 confirm 正常弹出
 
